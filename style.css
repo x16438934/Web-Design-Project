@@ -1,0 +1,28 @@
+.alt2
+{
+background:#333;
+min-height:150px;
+color:#fff;
+text-align:center;
+}
+
+.alt1
+{
+background:#eee;
+min-height:400px;
+}
+
+.padding
+{
+padding-top:20px;
+padding-bottom:20px;
+}
+h2
+{
+	color:red;
+	font-family:helvetica;
+}
+body
+{
+	background-color:pink;
+}
